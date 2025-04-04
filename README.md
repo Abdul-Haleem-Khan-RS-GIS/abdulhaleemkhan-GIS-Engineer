@@ -11,6 +11,51 @@
 
 - 📫 How to reach me **abdulhaleemk03@gmail.com**
 
+<h3 align="left">Profile:</h3>
+<p align="left">
+  With over two years of experience in GIS and remote sensing, I specialize in spatial analysis, data mapping, and 
+land cover classification. I hold a MSc in GIS and have worked on projects involving urban planning, 
+environmental monitoring, and disaster management. Proficient in ArcGIS, ArcGIS Pro, ENVI, and QGIS, I apply 
+techniques such as Maximum Likelihood Classification and Land Surface Temperature analysis using satellite 
+imagery from Landsat and Sentinel missions.
+
+<h3 align="left">Education:</h3>
+<p align="left">
+2020/11 – 2022/11
+Lahore, Pakistan
+GeographicalInformation System (GIS)
+https://www.pu.edu.pk/
+I hold a Bachelor's degree in Geographical Information System (GIS) from the 
+University Of The Punjab, where I graduated with a commendable CGPA of 3.13 out of
+4.0. During my studies from 2020 to 2022, I was recognized for my academic 
+excellence and dedication. My coursework included in-depth studies in spatial analysis, 
+remote sensing.
+
+<h3 align="left">Professional Experience:</h3>
+<p align="left">
+
+**GIS Analyst**
+ https://shehersaaz.com/
+As a GIS Analyst at Shehersaaz, my responsibilities included spatial data analysis, map 
+creation, and geospatial data management. I utilized GIS software to analyze 
+geographical data, which informed urban planning and development projects. I also 
+collaborated with teams to integrate GIS solutions into decision-making processes.
+
+**Junior GIS Expert**
+https://www.nespak.com.pk/
+I was responsible for developing and maintaining GIS databases,creating detailed maps 
+and spatial analyses, and supporting various infrastructure projects. I implemented GIS 
+solutions that improved data accuracy and project efficiency.
+
+**GIS Engineer**
+https://momah.gov.sa/en/taxonomy/term/26A
+As a GIS Engineer at the Municipality of Uyun Al Jawa, my primary responsibility is to 
+manage and analyze spatial data for urban planning and infrastructure development.
+This includes creating detailed maps, conducting spatial analyses, and providing 
+geospatial insights to support decision-making and optimize public services. I ensure 
+that GIS databases are accurate and up-to-date, enabling efficient resource management 
+and effective project planning within the municipality.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://x.com/abdulha48960413?t=hx1b_1zct3iujroec-ypxq&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/abdulha48960413?t=hx1b_1zct3iujroec-ypxq&s=09" height="30" width="40" /></a>
